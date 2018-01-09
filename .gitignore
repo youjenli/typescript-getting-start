@@ -1,0 +1,8 @@
+# project dependencies
+node_modules
+
+# transpiled javascript files
+/js
+
+# artifacts
+/dist

@@ -1,0 +1,16 @@
+{
+  "name": "typescript-getting-start",
+  "version": "0.0.1",
+  "description": "This is a web project which is used for learning and practicing typescript.",
+  "repository": "https://github.com/youjenli/typescript-getting-start.git",
+  "author": "martinli <youjenli1124@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-inject": "^4.3.0",
+    "gulp-typescript": "^3.2.3",
+    "typescript": "^2.6.2"
+  }
+}
